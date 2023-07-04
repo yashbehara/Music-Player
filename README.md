@@ -2,4 +2,4 @@
 Developed with Javascript
 
 # Site Link 
-(musikk-player.netlify.app)
+[Access the site](musikk-player.netlify.app)
